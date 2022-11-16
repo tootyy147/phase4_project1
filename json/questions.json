@@ -1,0 +1,44 @@
+[
+  {
+    "question": "How is an array initialized in C language?",
+    "choice1": "int a[3] = {1, 2, 3};",
+    "choice2": "int a = {1, 2, 3};",
+    "choice3": "int a[] = new int[3]",
+    "choice4": "int a(3) = [1, 2, 3];",
+    "answer": 1
+  },
+  {
+    "question": "Who won the 2015 Formula 1 World Championship?",
+    "choice1": "Nico Rosberg",
+    "choice2": "Sebastian Vettel",
+    "choice3": "Lewis Hamilton",
+    "choice4": "Jenson Button",
+    "answer": 3
+  },
+  {
+    "question": "What is the range of values that can be stored by int datatype in C?",
+    "choice1": "-(2^31) to (2^31) - 1",
+    "choice2": "-256 to 255",
+    "choice3": "-(2^63) to (2^63) - 1",
+    "choice4": "0 to (2^31) - 1",
+    "answer": 1
+  },
+  {
+    "question": "How is the 3rd element in an array accessed based on pointer notation?",
+    "choice1": "*a + 3",
+    "choice2": "*(a + 3)",
+    "choice3": "*(*a + 3)",
+    "choice4": "&(a + 3)",
+    "answer": 2
+  },
+  
+  {
+    "question": "Which of the following is the proper syntax for declaring macros in C?",
+    "choice1": "#define long long ll",
+    "choice2": "#define ll long long",
+    "choice3": "#define ll",
+    "choice4": "#define long long",
+    "answer": 2
+  }
+  
+]
